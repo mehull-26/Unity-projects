@@ -1,0 +1,1 @@
+These are the projects I did while was learning game development. I actaully started working at UE5, but eventually came across that depending on engines isnt quite good of a choice at professional level. So, working on unity here under some recommendations.
